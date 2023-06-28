@@ -3,11 +3,11 @@ logo: "/images/cat2.png" # your photo here
 description:  # your text below
   
   <br>
-  1st Extra Photo
+  **1st Extra Photo**
   <br><br>
   <img src = "/images/cat2.png" alt ="photo1">
   <br>
-  2nd Extra Photo
+  *2nd Extra Photo*
   <br>
   <img src = "/images/cat2.png" alt ="photo2">
   
