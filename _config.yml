@@ -1,8 +1,13 @@
 title: Melissa Voda # your name (or website title) here
 logo: "" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
+  <img src = "" alt ="photo1">
+  <br><br>
   Data Analyst || More About Me Goes Here
   <br><br>
+  <img src = "" alt ="photo2">
+  <br>
   
   <a href="https://www.linkedin.com/in/melvoda/">My LinkedIn Profile</a>  | <a href="https://public.tableau.com/">Tableau Profile</a> 
   
