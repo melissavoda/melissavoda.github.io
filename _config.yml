@@ -1,6 +1,7 @@
 title: Melissa Voda # your name (or website title) here
 logo: "/images/cat2.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  
   <br>
   1st Extra Photo
   <br><br>
@@ -9,7 +10,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   2nd Extra Photo
   <br>
   <img src = "/images/cat2.png" alt ="photo2">
-
   
   <a href="https://www.linkedin.com/in/melvoda/">LinkedIn Profile</a>  | <a href="https://public.tableau.com/">Tableau Profile</a> | 
   
