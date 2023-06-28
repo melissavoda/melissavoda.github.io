@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   2nd Photo
   <br>
-  <img src = "/images/cat.jpg" alt ="photo2">
+  <img src = "/images/cat2.png" alt ="photo2">
 
   
   <a href="https://www.linkedin.com/in/melvoda/">My LinkedIn Profile</a>  | <a href="https://public.tableau.com/">Tableau Profile</a> 
