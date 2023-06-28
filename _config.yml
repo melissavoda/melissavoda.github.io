@@ -3,7 +3,8 @@ logo: "" # your photo (or logo) here
 description:  # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst || Data Visualization || SQL || Tableau || Excel 
   <br><br>
-  <a href="https://www.linkedin.com/in/melvoda/">View My LinkedIn Profile</a>  
+  <a href="https://www.linkedin.com/in/melvoda/">View My LinkedIn Profile</a> 
+  <img src = "/images/logo.png">
 
   
 theme: jekyll-theme-minimal
