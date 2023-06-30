@@ -1,12 +1,8 @@
-# Welcome to My Portfolio
-
-----
-#### [Linked File Project](/files/name)
-<img src=""/> For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+# Welcome to My Portfolio!
 
 ---
 #### [External Link Project](Link)
-[<img src=""/>](Link)
+[<img src="/images/ddarticle.png"/>](Link)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
 
