@@ -1,9 +1,11 @@
-# Welcome to My Portfolio!
+# Projects!
 
 ---
-#### [External Link Project](Link)
+#### [Excel: Marketing Analysis of Food](Link)
 [<img src="/images/ddarticle.png"/>](Link)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+This analysis includes the relationship between customer’s income and their spending behavior. 
+
+I utilized **Excel** to analyze marketing trends and create **data visualizations** such as a Scatter plot, bar charts and a histogram to find and understand business opportunites and insights.
 
 
 ---
