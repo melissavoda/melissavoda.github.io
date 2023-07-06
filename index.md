@@ -13,3 +13,5 @@ I utilized **Excel** to analyze marketing trends to create **data visualizations
 Using **Tableau** to analyze data from the Massachuetts school system to seek improvements that could be used to improve their high schools and their graduation and college attendance rates. 
 
 I created **data visualizations** such as a scatter plot, bar charts and a geographic heat map to find and understand opportunites and insights.
+
+----
