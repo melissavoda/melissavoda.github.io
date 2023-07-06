@@ -17,4 +17,4 @@ I created **data visualizations** such as a Scatter plot, bar charts and a geogr
 ---
 #### [External Link Project](Link)
 [<img src=""/>](Link)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+Project info here
