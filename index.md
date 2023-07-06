@@ -8,8 +8,8 @@ This analysis includes the relationship between customer’s income and their sp
 I utilized **Excel** to analyze marketing trends and create **data visualizations** such as a Scatter plot, bar charts and a histogram to find and understand business opportunites and insights.
 
 ----
-#### [Tableau: State of Education in Massachuhsetts High Schools]([Link]https://www.linkedin.com/pulse/state-education-massachusetts-high-schools-melissa-voda)
-<img src="/images/MassEducation.png"/> (Link)
+#### [Tableau: State of Education in Massachuhsetts High Schools]([Link](https://www.linkedin.com/pulse/state-education-massachusetts-high-schools-melissa-voda))
+[<img src="/images/MassEducation.png"/>](Link)
 I utilized **Tableau** to analyze data from the Massachuetts school system to seek improvements that could be used to improve their high schools and their graduation and college attendance rates. I created **data visualizations** such as a Scatter plot, bar charts and a geographic heat map to find and understand opportunites and insights.
 
 ---
