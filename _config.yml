@@ -1,17 +1,14 @@
 title: Melissa Voda # your name here
 logo: "/images/cat2.png" # your photo here
 description:  # your text below
-  
+  Data Analyst | SQL | Tableau | Excel | Data Visualization
   <br>
-  **1st Extra Photo** 
-  <br><br>
-  <img src = "/images/cat2.png" alt ="photo1">
+  Who also loves gaming, reading and bacon Cheeseburgers!
   <br>
-  *2nd Extra Photo*
-  <br>
-  <img src = "/images/cat2.png" alt ="photo2">
+
   
  <a href="https://www.linkedin.com/in/melvoda/">LinkedIn Profile</a>  | <a href="https://public.tableau.com/app/profile/melissa.voda">Tableau Profile</a> | 
+ <a href="https://melissavoda.carrd.co/">Personal Portfolio</a>
   
 
 theme: jekyll-theme-minimal
