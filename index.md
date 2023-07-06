@@ -1,7 +1,7 @@
 # Projects!
 
 ---
-#### [Excel: Marketing Analysis of Food]([https://www.linkedin.com/pulse/doordash-examining-marketing-trends-using-excel-melissa-voda])
+#### [Excel: Marketing Analysis of Food](https://www.linkedin.com/pulse/doordash-examining-marketing-trends-using-excel-melissa-voda)/)
 [<img src="/images/ddarticle.png"/>](Link)
 This analysis includes the relationship between customer’s income and their spending behavior. 
 
