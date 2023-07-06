@@ -1,12 +1,16 @@
 # Projects!
 
 ---
-#### [Excel: Marketing Analysis of Food](Link)
+#### [Excel: Marketing Analysis of Food]([Link](https://www.linkedin.com/pulse/doordash-examining-marketing-trends-using-excel-melissa-voda))
 [<img src="/images/ddarticle.png"/>](Link)
 This analysis includes the relationship between customer’s income and their spending behavior. 
 
 I utilized **Excel** to analyze marketing trends and create **data visualizations** such as a Scatter plot, bar charts and a histogram to find and understand business opportunites and insights.
 
+----
+#### [Tableau: State of Education in Massachuhsetts High Schools]([Link]https://www.linkedin.com/pulse/state-education-massachusetts-high-schools-melissa-voda)
+<img src=""/> 
+I utilized **Tableau** to analyze data from the Massachuetts school system to seek improvements that could be used to improve their high schools and their graduation and college attendance rates. I created **data visualizations** such as a Scatter plot, bar charts and a geographic heat map to find and understand opportunites and insights.
 
 ---
 #### [External Link Project](Link)
@@ -15,10 +19,6 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze th
 What schools are struggling the most?
 How does class size affect college admission?
 What are the top math schools in the state? 
-
-----
-#### [Linked File Project](/files/name)
-<img src=""/> For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
 #### [External Link Project](Link)
