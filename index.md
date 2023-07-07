@@ -23,3 +23,4 @@ I created **data visualizations** such as a scatter plot, bar charts and a geogr
 Using **SQL** to analyze I utilized SQL to analyze data from the World Bank to look over all of their bank loans and offer insights on which countries owe the most to the IDA and what projects are they funding.
 
 ----
+ 
