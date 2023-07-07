@@ -22,5 +22,7 @@ I created **data visualizations** such as a scatter plot, bar charts and a geogr
 <a href=""><img src="/images/Bank.png"></a>
 Using **SQL** to analyze data from the World Bank to look over all of their bank loans and offer insights on which countries owe the most to the IDA and what projects are they funding.
 
+**Coming Soon**
+
 ----
  
