@@ -23,4 +23,11 @@ I created **data visualizations** such as a scatter plot, bar charts and a geogr
 Using **SQL** to analyze data from the World Bank to look over all of their bank loans and offer insights on which countries owe the most to the IDA and what projects are they funding.
 
 ----
+
+<h2>SQL: Healthcare Data Analysis</h2>
+<a href=""><img src="/images/Healthcare.png"></a>
+**Coming Soon**
+Utilized **SQL** to analyze healthcare data to analyze hospital stays, their busiest sectors, and the re-admittance rate. To offer recommendations to improve freeing up beds quickly.
+
+----
  
