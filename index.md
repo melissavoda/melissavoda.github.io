@@ -26,7 +26,7 @@ Using **SQL** to analyze data from the World Bank to look over all of their bank
 
 <h2>SQL: Healthcare Data Analysis</h2>
 <a href=""><img src="/images/Healthcare.png"></a>
-**Coming Soon**
+**Coming Soon**<br>
 Utilized **SQL** to analyze healthcare data to analyze hospital stays, their busiest sectors, and the re-admittance rate. To offer recommendations to improve freeing up beds quickly.
 
 ----
