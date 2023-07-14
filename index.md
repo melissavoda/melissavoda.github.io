@@ -26,7 +26,6 @@ Using **SQL** to analyze data from the World Bank to look over all of their bank
 
 <h2>SQL: Healthcare Data Analysis</h2>
 <a href="https://www.linkedin.com/pulse/healthcare-data-analysis-melissa-voda/"><img src="/images/Healthcare.png"></a>
-**Coming Soon**<br>
 Utilized more advanced **SQL** queries, to analyze healthcare data to analyze hospital stays, and their busiest sectors. To offer recommendations to improve freeing up beds quickly.
 
 ----
